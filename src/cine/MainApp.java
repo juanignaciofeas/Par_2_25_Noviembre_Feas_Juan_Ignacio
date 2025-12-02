@@ -14,7 +14,6 @@ import javafx.stage.Stage;
 /**
  * MainApp - punto de entrada de la aplicación.
  * Mantiene UNA sola instancia de Cine y orquesta vistas.
- * Comentarios estilo estudiante, directo y claro.
  */
 public class MainApp extends Application {
 
