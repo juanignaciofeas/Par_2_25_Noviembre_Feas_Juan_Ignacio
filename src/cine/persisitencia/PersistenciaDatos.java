@@ -6,7 +6,6 @@ import java.io.*;
 
 /**
  * PersistenciaDatos - serializa/deserializa el objeto Cine a cine.ser
- * Estilo estudiante: simple, funcional y suficiente para el parcial.
  */
 public class PersistenciaDatos {
 
